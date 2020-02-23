@@ -1,0 +1,12 @@
+LIBRARY    gw_mqtt.dll
+EXPORTS
+	__local_stdio_printf_options
+	_vfprintf_l
+	printf
+	gw_mqtt
+	sci_int_mqtt_client_connect
+	sci_int_mqtt_client_disconn
+	sci_int_mqtt_client_receive
+	sci_int_mqtt_client_sub
+	sci_int_mqtt_pub
+	sci_int_mqtt_sub
