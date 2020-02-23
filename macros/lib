@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<scilablib name="bytecode_mqttlib">
-  <macro name="mqtt_pub" file="mqtt_pub.bin" md5="e7835fde973db618c2b268653d980e98"/>
-  <macro name="mqtt_sub" file="mqtt_sub.bin" md5="fb7ac4f1e0b9f3421bbc5d367c8da946"/>
-</scilablib>
